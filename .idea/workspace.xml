@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bf24aad-9ac0-46e6-8082-c61957cf6d4f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1WuoEEC8cky57AHjiKuKHztwKj9" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="go" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../studyGo/src/day01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build 15_break、continue、goto.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="studyGo" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 13_运算符.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studyGo" />
+      <working_directory value="$PROJECT_DIR$/../studyGo/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../studyGo/src/day01/13_运算符.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 13_流程控制.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studyGo" />
+      <working_directory value="$PROJECT_DIR$/../studyGo/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../studyGo/src/day01/13_流程控制.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 14_循环结构.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studyGo" />
+      <working_directory value="$PROJECT_DIR$/../studyGo/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../studyGo/src/day01/14_循环结构.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 15_break和continue.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studyGo" />
+      <working_directory value="$PROJECT_DIR$/../studyGo/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../studyGo/src/day01/15_break和continue.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 15_break、continue、goto.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="studyGo" />
+      <working_directory value="$PROJECT_DIR$/../studyGo/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../studyGo/src/day01/15_break、continue、goto.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="studyGo" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build 15_break、continue、goto.go" />
+        <item itemvalue="Go Build.go build 15_break和continue.go" />
+        <item itemvalue="Go Build.go build 14_循环结构.go" />
+        <item itemvalue="Go Build.go build 13_流程控制.go" />
+        <item itemvalue="Go Build.go build 13_运算符.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
