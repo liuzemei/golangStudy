@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf24aad-9ac0-46e6-8082-c61957cf6d4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/01_函数语法.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/02_函数类型.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/03_匿名函数和闭包.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/04_延迟调用defer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/05_命令行参数、局部变量、全局变量.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/01_指针.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/02_数组.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/03_随机数的使用.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/04_冒泡排序.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/05_切片的容量和长度.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/06_map基本使用.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/07_结构体类型.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记.md" afterDir="false" />
     </list>
@@ -34,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="go" />
@@ -42,7 +44,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 05_命令行参数、局部变量、全局变量.go">
+  <component name="RunManager" selected="Go Build.go build 06_map基本使用.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -69,39 +71,39 @@
       <kind value="FILE" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 02_函数类型.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 02_数组.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/day02/02_函数类型.go" />
+      <filePath value="$PROJECT_DIR$/src/day03/02_数组.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 03_匿名函数和闭包.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 03_随机数的使用.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/day02/03_匿名函数和闭包.go" />
+      <filePath value="$PROJECT_DIR$/src/day03/03_随机数的使用.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 04_延迟调用defer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 04_冒泡排序.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/day02/04_延迟调用defer.go" />
+      <filePath value="$PROJECT_DIR$/src/day03/04_冒泡排序.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 05_获取命令行参数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 05_切片的容量和长度.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/day02/05_获取命令行参数.go" />
+      <filePath value="$PROJECT_DIR$/src/day03/05_切片的容量和长度.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 05_命令行参数、局部变量、全局变量.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 06_map基本使用.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/day02/05_命令行参数、局部变量、全局变量.go" />
+      <filePath value="$PROJECT_DIR$/src/day03/06_map基本使用.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 05_命令行参数、局部变量、全局变量.go" />
-        <item itemvalue="Go Build.go build 05_获取命令行参数.go" />
-        <item itemvalue="Go Build.go build 04_延迟调用defer.go" />
-        <item itemvalue="Go Build.go build 03_匿名函数和闭包.go" />
-        <item itemvalue="Go Build.go build 02_函数类型.go" />
+        <item itemvalue="Go Build.go build 06_map基本使用.go" />
+        <item itemvalue="Go Build.go build 05_切片的容量和长度.go" />
+        <item itemvalue="Go Build.go build 02_数组.go" />
+        <item itemvalue="Go Build.go build 04_冒泡排序.go" />
+        <item itemvalue="Go Build.go build 03_随机数的使用.go" />
       </list>
     </recent_temporary>
   </component>
@@ -137,5 +139,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day02" />
+    <option name="LAST_COMMIT_MESSAGE" value="day02" />
   </component>
 </project>
