@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf24aad-9ac0-46e6-8082-c61957cf6d4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day03/01_指针.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/02_数组.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/03_随机数的使用.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/04_冒泡排序.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/05_切片的容量和长度.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/06_map基本使用.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/07_结构体类型.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/01_匿名字段.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/02_方法.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/03_接口.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/04_类型断言.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/07_结构体类型.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/07_结构体类型.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +42,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -63,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 06_map基本使用.go">
+  <component name="RunManager" selected="Go Build.go build 04_类型断言.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -71,39 +69,39 @@
       <kind value="FILE" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 02_数组.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 01_匿名字段.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/day03/02_数组.go" />
+      <filePath value="$PROJECT_DIR$/src/day04/01_匿名字段.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 03_随机数的使用.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 02_方法.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/day03/03_随机数的使用.go" />
+      <filePath value="$PROJECT_DIR$/src/day04/02_方法.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 04_冒泡排序.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 03_接口.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/day03/04_冒泡排序.go" />
+      <filePath value="$PROJECT_DIR$/src/day04/03_接口.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 05_切片的容量和长度.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 04_类型断言.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/day03/05_切片的容量和长度.go" />
+      <filePath value="$PROJECT_DIR$/src/day04/04_类型断言.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 06_map基本使用.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 07_结构体类型.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="studyGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/day03/06_map基本使用.go" />
+      <filePath value="$PROJECT_DIR$/src/day03/07_结构体类型.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -116,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 06_map基本使用.go" />
-        <item itemvalue="Go Build.go build 05_切片的容量和长度.go" />
-        <item itemvalue="Go Build.go build 02_数组.go" />
-        <item itemvalue="Go Build.go build 04_冒泡排序.go" />
-        <item itemvalue="Go Build.go build 03_随机数的使用.go" />
+        <item itemvalue="Go Build.go build 04_类型断言.go" />
+        <item itemvalue="Go Build.go build 03_接口.go" />
+        <item itemvalue="Go Build.go build 02_方法.go" />
+        <item itemvalue="Go Build.go build 01_匿名字段.go" />
+        <item itemvalue="Go Build.go build 07_结构体类型.go" />
       </list>
     </recent_temporary>
   </component>
